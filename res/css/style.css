@@ -1,0 +1,16 @@
+#player{
+    height: 70px;
+    width: 70px;
+    background-color: red;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transition: .5s;
+    cursor: pointer;
+}
+button{
+    padding: 1em;
+}
+*{
+    user-select: none;
+}
